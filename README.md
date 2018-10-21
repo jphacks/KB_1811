@@ -1,6 +1,6 @@
 # パステル
 
-[![Product Name](image.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
+[![Product Name](image.jpg)](https://youtu.be/f9tyz49SWIQk)
 
 ## 製品概要
 ### X Tech（見守り x Tech）
